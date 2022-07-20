@@ -1,0 +1,24 @@
+{
+  "name": "order-summmary",
+  "version": "1.0.0",
+  "description": "show an final order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tl-lvl-lL/Order-Summy.git"
+  },
+  "keywords": [
+    "CSS",
+    "Javascript",
+    "HTML"
+  ],
+  "author": "Mariano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tl-lvl-lL/Order-Summy/issues"
+  },
+  "homepage": "https://github.com/Tl-lvl-lL/Order-Summy#readme"
+}
